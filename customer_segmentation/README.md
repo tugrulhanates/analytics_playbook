@@ -1,4 +1,4 @@
-# 🧩 Customer Segmentation — Worked Examples
+# Customer Segmentation — Worked Examples
 
 Companion code for the **Analytics Playbook** newsletter issue on customer segmentation. Three self-contained, clearly separated segmentation methods, each with its own dummy dataset, so you can run every technique end to end and see exactly how the numbers turn into segments.
 
@@ -80,7 +80,7 @@ Clusters are relabelled from arbitrary numbers (`0`, `1`, `2`) to meaningful nam
 
 ---
 
-## 🙋 Why three methods, not one
+## Why three methods, not one
 
 Each one trades off explainability against how well it actually reflects behaviour:
 
