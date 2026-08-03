@@ -1,0 +1,41 @@
+customer_id,recency_days,frequency,monetary,r_score,f_score,m_score,rfm_total,segment
+C001,5,12,1450.0,3,3,3,9,Champions
+C002,340,1,60.0,1,1,1,3,Lost
+C003,20,8,890.0,3,2,2,7,Loyal Customers
+C004,90,2,150.0,2,1,1,4,Needs Attention
+C005,10,15,2100.0,3,3,3,9,Champions
+C006,60,5,500.0,2,2,2,6,Loyal Customers
+C007,286,7,928.52,1,2,2,5,Needs Attention
+C008,331,2,773.07,1,1,2,4,Needs Attention
+C009,128,3,446.47,2,1,2,5,Needs Attention
+C010,348,17,779.06,1,3,2,6,Loyal Customers
+C011,231,5,1103.29,1,2,3,6,Loyal Customers
+C012,190,17,920.24,1,3,2,6,Loyal Customers
+C013,225,17,198.25,1,3,1,5,Needs Attention
+C014,385,17,845.53,1,3,2,6,Loyal Customers
+C015,377,2,547.51,1,1,2,4,Needs Attention
+C016,283,2,996.2,1,1,2,4,Needs Attention
+C017,121,5,561.39,2,2,2,6,Loyal Customers
+C018,116,1,887.38,2,1,2,5,Needs Attention
+C019,233,1,705.85,1,1,2,4,Needs Attention
+C020,259,19,909.04,1,3,2,6,Loyal Customers
+C021,359,2,1561.87,1,1,3,5,Needs Attention
+C022,198,12,446.64,1,3,2,6,Loyal Customers
+C023,137,6,141.52,2,2,1,5,Needs Attention
+C024,318,4,490.27,1,2,2,5,Needs Attention
+C025,165,11,212.76,1,3,1,5,Needs Attention
+C026,225,17,1061.63,1,3,3,7,Loyal Customers
+C027,307,6,143.45,1,2,1,4,Needs Attention
+C028,234,5,834.12,1,2,2,5,Needs Attention
+C029,172,2,942.04,1,1,2,4,Needs Attention
+C030,152,6,488.58,1,2,2,5,Needs Attention
+C031,315,11,1236.47,1,3,3,7,Loyal Customers
+C032,374,16,1105.15,1,3,3,7,Loyal Customers
+C033,160,16,2538.95,1,3,3,7,Loyal Customers
+C034,96,1,488.02,2,1,2,5,Needs Attention
+C035,233,9,495.53,1,2,2,5,Needs Attention
+C036,180,6,577.51,1,2,2,5,Needs Attention
+C037,113,16,773.41,2,3,2,7,Loyal Customers
+C038,318,3,420.42,1,1,2,4,Needs Attention
+C039,52,4,337.6,2,2,2,6,Loyal Customers
+C040,268,19,32.36,1,3,1,5,Needs Attention
