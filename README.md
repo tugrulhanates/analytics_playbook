@@ -45,7 +45,6 @@ Each issue gets its own folder containing the source material used to build it �
 | Example Name | Folder Name | Notes |
 |---|---|---|
 | **Customer Segmentation** | `customer_segmentation` | The python script ins this folder provides "Rule Based", "RFM Segmentation" and "K-means Clustering" examples with dummy data to practice each segmentation option. |
-| **Difference-in-Differences** | `difference-in-differences` | Full worked example (marketplace seller-onboarding rollout), the parallel-trends diagnostic, and a checklist for when the method is safe to trust. |
 | **Regression Discontinuity** | `regression-discontinuity` | Loyalty-programme tier-upgrade case study — using a hard points threshold as a natural experiment, plus the bunching/manipulation check that can quietly invalidate it. |
 
 > 📌 New folders are added as new issues publish. If you're looking for an issue and don't see its folder yet, it's coming.
