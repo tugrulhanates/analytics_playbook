@@ -11,7 +11,6 @@ Companion code for the **Analytics Playbook** newsletter issue on Regression Dis
 ```
 03-regression-discontinuity/
 ├── README.md                     <- you are here
-├── generate_dummy_data.py        <- (re)builds the CSV in /data
 ├── rdd_examples.py                <- the full worked example, 6 sections
 ├── data/
 │   └── rdd_loyalty_customers.csv
