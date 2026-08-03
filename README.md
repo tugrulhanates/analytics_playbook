@@ -44,7 +44,7 @@ Each issue gets its own folder containing the source material used to build it �
 
 | Example Name | Folder Name | Notes |
 |---|---|---|
-| **The Pull-Forward Effect** | `pull-forward-effect` | E-commerce promo case study — how promotional spend quietly borrows sales from future weeks, and how to spot the distortion before it's mistaken for organic growth. |
+| **Customer Segmentation** | `customer_segmentation` | The python script ins this folder provides "Rule Based", "RFM Segmentation" and "K-means Clustering" examples with dummy data to practice each segmentation option. |
 | **Difference-in-Differences** | `difference-in-differences` | Full worked example (marketplace seller-onboarding rollout), the parallel-trends diagnostic, and a checklist for when the method is safe to trust. |
 | **Regression Discontinuity** | `regression-discontinuity` | Loyalty-programme tier-upgrade case study — using a hard points threshold as a natural experiment, plus the bunching/manipulation check that can quietly invalidate it. |
 
