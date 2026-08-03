@@ -11,7 +11,6 @@ Companion code for the **Analytics Playbook** newsletter issue on customer segme
 ```
 04-customer-segmentation/
 ├── README.md                          <- you are here
-├── generate_dummy_data.py             <- (re)builds the 3 CSVs in /data
 ├── customer_segmentation_examples.py  <- the 3 worked examples
 ├── data/
 │   ├── rule_based_customers.csv
