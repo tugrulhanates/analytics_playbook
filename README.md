@@ -46,8 +46,8 @@ Each issue gets its own folder containing the source material used to build it �
 |---|---|---|
 | **Customer Segmentation** | `customer_segmentation` | The python script ins this folder provides "Rule Based", "RFM Segmentation" and "K-means Clustering" examples with dummy data to practice each segmentation option. |
 | **Regression Discontinuity** | `regression_discontinuity` | Loyalty-programme tier-upgrade case study — using a hard points threshold as a natural experiment, plus the bunching/manipulation check that can quietly invalidate it. |
-| **Hidden CAC Asymmetry** | `hidden_cac_asymmetry` | Guest vs. host acquisition-cost case study — building an "effective CAC" that adds the hidden ramp-up cost of new hosts on top of nominal spend, showing why supply-side CAC is worse than the headline number suggests. |
-| **Cohort Analysis** | `cohort_analysis` | Host signup-vintage retention example — comparing cohorts at matched tenure instead of calendar date to reveal a vintage decline a blended active-rate metric hides, plus a check for confirming the trend is real. |
+| **Hidden CAC Asymmetry** | `hidden_cac_asymmetry` | Guest vs. host acquisition-cost case study for hospitality industry — building an "effective CAC" that adds the hidden ramp-up cost of new hosts on top of nominal spend, showing why supply-side CAC is worse than the headline number suggests. |
+| **Cohort Analysis** | `cohort_analysis` | Host signup-vintage retention example (hospitality industry) — comparing cohorts at matched tenure instead of calendar date to reveal a vintage decline a blended active-rate metric hides, plus a check for confirming the trend is real. |
 
 > 📌 New folders are added as new issues publish. If you're looking for an issue and don't see its folder yet, it's coming.
 
