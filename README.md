@@ -1,6 +1,6 @@
 <div align="center">
 
-# <span style="color:#FFFF00">Analytics Playbook</span>
+# Analytics Playbook
 
 **Real-world analytics, causal inference, and data leadership — worked, not just explained.**
 
