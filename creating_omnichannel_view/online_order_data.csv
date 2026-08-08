@@ -1,0 +1,13 @@
+customer_id,first_name,last_name,email,phone,address,city,postcode,country,accepts_marketing,loyalty_id,total_orders,total_spent_gbp,created_at,tags
+7451200234,Emma,Clarke,emma.clarke92@gmail.com,+447911223344,14 Marlow Road,Manchester,M1 4BT,UK,Yes,L10001,6,482.50,2023-03-14,
+7451200567,Daniel,Wright,daniel.wright77@outlook.com,+447700112233,22 Baker Street,London,NW1 6XE,UK,Yes,L10002,3,210.00,2024-01-09,
+7451200812,Liam,O'Connor,liam.oconnor85@gmail.com,+447933110022,9 Riverside Close,Leeds,LS1 4DP,UK,Yes,L10004,4,156.00,2023-09-20,
+7451201045,Jane,Smith,jane.smith84@gmail.com,+447744556677,31 Chestnut Ave,Bristol,BS1 5TN,UK,Yes,,2,96.00,2024-02-18,
+7451201233,Olivia,Bennett,olivia.bennett@gmail.com,+447811002233,18 Fairview Terrace,Glasgow,G1 2AB,UK,Yes,L10006,5,340.00,2023-05-12,
+7451201456,Sophie,Bennett,sophie.bennett22@gmail.com,+447822114455,18 Fairview Terrace,Glasgow,G1 2AB,UK,Yes,L10007,2,88.00,2024-03-30,
+7451201678,Ryan,Cooper,ryan.cooper81@gmail.com,+447900332211,4 Orchard Lane,Sheffield,S1 3JK,UK,Yes,L10008,3,145.00,2023-11-08,
+7451201890,Chloe,Adams,chloe.adams99@gmail.com,,12 Kings Road,Newcastle,NE1 6UY,UK,No,,1,42.00,2024-07-02,guest
+7451202011,Charlotte,Evans,charlotte.evans@yahoo.com,+447700998877,27 Mill Lane,Leicester,LE1 5RT,UK,Yes,,2,78.00,2021-08-19,
+7451202233,Bright Futures,Ltd,orders@brightfutures.co.uk,+442071234567,100 Corporate Way,London,EC1A 1BB,UK,No,,1,3200.00,2024-05-01,wholesale
+7451202456,Michael,Turner,michael.turner88@gmail.com,+447855223344,3 Grange Court,Nottingham,NG1 5FG,UK,Yes,L10011,8,610.00,2022-12-01,
+7451202678,Grace,Thompson,grace.thompson21@gmail.com,+447922114400,16 Vale Road,Cardiff,CF1 2PL,UK,No,,1,54.00,2024-12-03,

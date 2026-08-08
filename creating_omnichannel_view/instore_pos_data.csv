@@ -1,0 +1,12 @@
+transaction_id,store_location,transaction_date,first_name,last_name,email,phone,loyalty_id,staff_discount,transaction_type,amount_gbp,order_reference
+T20001,Example Store,2024-11-02,Emma,Clarke,emma.clarke92@gmail.com,+447911223344,L10001,No,Sale,64.00,RCT-88231
+T20002,Example Store,2024-06-01,Priya,Patel,priya.patel90@gmail.com,+447822994411,L10003,No,Sale,58.00,RCT-88350
+T20003,Example Store,2024-09-14,Liam,O'Connor,liam.oconnor85@gmail.com,+447933110022,L10004,No,Sale,89.00,RCT-90112
+T20004,Example Store,2024-09-21,,,,,,No,Return,-89.00,RCT-90112
+T20005,Example Store,2024-08-05,Jane,Smith,jane.s.1990@hotmail.com,+447744556677,L10005,No,Sale,72.50,RCT-91002
+T20006,Example Store,2024-10-11,Megan,Hughes,,+447855667788,L10008,No,Sale,112.00,RCT-91500
+T20007,Example Store,2024-09-15,Chloe,Adams,chloe.adams99@gmail.com,+447766112288,L10009,No,Sale,65.00,RCT-92044
+T20008,Example Store,2024-11-20,Charlotte,Turner,charlotte.turner75@gmail.com,+447933221100,L10010,No,Sale,94.00,RCT-92500
+T20009,Example Store,2024-10-30,Sarah,Jenkins,sarah.jenkins@oneractive.com,+447811556699,,Yes,Sale,38.00,RCT-92710
+T20010,Example Store,2024-11-15,Michael,Turner,michael.turner88@gmail.com,+447855223344,L10011,No,Sale,120.00,RCT-93012
+T20011,Example Store,2024-11-28,Tom,Harris,,,,No,Sale,45.00,RCT-93200

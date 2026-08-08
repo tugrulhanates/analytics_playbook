@@ -1,0 +1,12 @@
+loyalty_id,first_name,last_name,email,phone,address,city,postcode,country,date_of_birth,signup_channel,signup_date,email_consent,sms_consent
+L10001,Emma,Clarke,emma.clarke92@gmail.com,+447911223344,14 Marlow Road,Manchester,M1 4BT,UK,1992-06-18,Online,2023-03-14,Yes,Yes
+L10002,Daniel,Wright,daniel.wright77@outlook.com,+447700112233,22 Baker Street,London,NW1 6XE,UK,1988-11-02,Online,2024-01-09,Yes,No
+L10003,Priya,Patel,priya.patel90@gmail.com,+447822994411,5 Elm Grove,Birmingham,B12 9QF,UK,1990-04-25,In-store,2024-06-01,Yes,Yes
+L10004,Liam,O'Connor,liam.oconnor85@gmail.com,+447933110022,9 Riverside Close,Leeds,LS1 4DP,UK,1985-02-11,Online,2023-09-20,Yes,No
+L10005,Jane,Smith,jane.s.1990@hotmail.com,+447744556677,31 Chestnut Ave,Bristol,BS1 5TN,UK,1990-07-30,In-store,2024-08-05,Yes,No
+L10006,Olivia,Bennett,olivia.bennett@gmail.com,+447811002233,18 Fairview Terrace,Glasgow,G1 2AB,UK,1995-09-03,Online,2023-05-12,Yes,Yes
+L10007,Sophie,Bennett,sophie.bennett22@gmail.com,+447822114455,18 Fairview Terrace,Glasgow,G1 2AB,UK,1998-12-14,Online,2024-03-30,Yes,No
+L10008,Ryan,Cooper,ryan.cooper81@gmail.com,+447900332211,4 Orchard Lane,Sheffield,S1 3JK,UK,1989-05-22,Online,2023-11-08,Yes,No
+L10009,Chloe,Adams,chloe.adams99@gmail.com,+447766112288,12 Kings Road,Newcastle,NE1 6UY,UK,1997-03-19,In-store,2024-09-15,Yes,Yes
+L10010,Charlotte,Turner,charlotte.turner75@gmail.com,+447933221100,8 Parkside Grove,Leicester,LE2 7QW,UK,1993-01-27,In-store,2024-11-20,Yes,No
+L10011,Michael,Turner,michael.turner88@gmail.com,+447855223344,3 Grange Court,Nottingham,NG1 5FG,UK,1984-10-09,Online,2022-12-01,Yes,Yes
