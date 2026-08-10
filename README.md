@@ -49,6 +49,7 @@ Each issue gets its own folder containing the source material used to build it �
 | **Hidden CAC Asymmetry** | `hidden_cac_asymmetry` | Guest vs. host acquisition-cost case study for hospitality industry — building an "effective CAC" that adds the hidden ramp-up cost of new hosts on top of nominal spend, showing why supply-side CAC is worse than the headline number suggests. |
 | **Cohort Analysis** | `cohort_analysis` | Host signup-vintage retention example (hospitality industry) — comparing cohorts at matched tenure instead of calendar date to reveal a vintage decline a blended active-rate metric hides, plus a check for confirming the trend is real. |
 | **Creating an Omnichannel View** | `creating_omnichannel_view` | Retail CRM/online/POS identity-resolution case study — using SQL graph matching (shared loyalty_id, email, or phone as edges, connected components as canonical customers) to merge scattered records into one customer view, plus the confidence-flagging that catches shaky merges instead of trusting them silently. |
+| **Switchback Experiment** | `switchback_experiment` | Ride-sharing surge-pricing case study (marketplace industry) — using time-based randomisation instead of user-level A/B to avoid SUTVA violations, showing how naive pooled analysis overstates significance and understates the true effect versus the correct block-level, washed-out analysis, plus the per-zone heterogeneity a pooled number hides. |
 
 > 📌 New folders are added as new issues publish. If you're looking for an issue and don't see its folder yet, it's coming.
 
