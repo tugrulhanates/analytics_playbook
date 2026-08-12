@@ -1,6 +1,6 @@
 # Switchback Experiment (Time-Based Randomisation)
 
-Companion files for *Analytics Playbook — Issue 08 — The Switchback Experiment: Time-Based Randomisation for Marketplaces*.
+Companion files for *Analytics Playbook — The Switchback Experiment: Time-Based Randomisation for Marketplaces*.
 
 This folder simulates a surge-pricing switchback test on a ride-sharing marketplace and reproduces every number and figure quoted in the article: the naive (biased) pooled analysis, the washout correction, the block-level analysis with the right unit of inference, the zone-level heterogeneity check, and the carry-over diagnostic.
 
