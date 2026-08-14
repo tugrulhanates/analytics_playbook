@@ -1,6 +1,6 @@
 # CUPED Calculation for Variance Reduction
 
-Companion files for *Analytics Playbook — Issue 09 — How to Run a CUPED Calculation for Variance Reduction*.
+Companion files for *Analytics Playbook — How to Run a CUPED Calculation for Variance Reduction in Data Experiments*.
 
 This folder walks through Controlled-experiment Using Pre-Experiment Data (CUPED) step by step on a small, fully worked dataset, and reproduces every number and figure quoted in the article.
 
