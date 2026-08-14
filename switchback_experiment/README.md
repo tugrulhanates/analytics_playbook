@@ -16,7 +16,6 @@ This folder simulates a surge-pricing switchback test on a ride-sharing marketpl
 
 ```bash
 pip install numpy pandas matplotlib
-python generate_dummy_data.py
 python switchback_examples.py
 ```
 
