@@ -1,0 +1,5 @@
+strategy,n_looks,alpha_per_look,false_positive_rate
+"Fixed horizon (1 look, day 30 only)",1,0.05,0.0495
+"Daily peeking, naive (30 looks)",30,0.05,0.279
+"Weekly peeking, naive (5 looks)",5,0.05,0.1394
+"Weekly peeking, Bonferroni-corrected (5 looks)",5,0.01,0.0306
