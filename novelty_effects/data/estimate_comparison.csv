@@ -1,0 +1,4 @@
+estimate,lift,wait_required_days
+"Existing players, days 1-3 (early peek)",0.25174019537158154,3
+"New players, any day (pooled)",0.04947362116695082,1
+"Existing players, days 25-30 (waited it out)",0.053673378772059466,30
