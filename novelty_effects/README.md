@@ -1,4 +1,4 @@
-# Issue 15 — Novelty Effects: Why Your Game Feature's First Week Is Lying to You
+# Novelty Effects: Why Your Game Feature's First Week Is Lying to You
 
 Companion code for *Analytics Playbook: Novelty Effects in Feature A/B Tests: Why Early Wins Mislead (Gaming Industry example)*. A fictional mobile studio, **Nova Peak Games**, A/B tests a new **Daily Spin Wheel** feature in a made-up game, **Dragon's Ascent**. The day-1 lift looks huge (28%) but is mostly a novelty effect — early curiosity, not the feature's true value. This repo shows two ways to find the real, steady-state effect: watching the lift decay over 30 days, and comparing new players (who never experienced a "before" version) against existing players.
 
